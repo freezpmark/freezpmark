@@ -14,7 +14,7 @@
 
  #### **Artificial Intelligence (2020)**
  <img src="https://github.com/FrizzLi/Artificial-Intelligence/blob/master/animation.gif" align='right' width='300' height='158'/>
- <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, finding the shortest path between all nodes, deducing new facts from facts that are being collected in each blue node. The intention behind this project was to improve Python programming skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. These algorithms were used for finding a solution: Dijkstra, A*, Held-Karp, Evolution, Production rule system. (Python)</p>
+ <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, finding the shortest path between all nodes, deducing new facts from facts that are being collected in each blue node. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. These algorithms were used for finding a solution: Dijkstra, A*, Held-Karp, Evolution, Production rule system. (Python)</p>
 
  #### **Deep Learning (?)**
  </details>
@@ -63,7 +63,7 @@
  <summary><b>💬 Contact</b></summary>
 
  If you want to know more or you just want to ask me something, feel free to do so! I’ll be happy to help.  
- You can write me on P.Markus1337@gmail.com or reach me on these accounts:
+ You can write me on P.Markus1337@gmail.com or reach me here:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pmarkus2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Elshak1337/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZNX8ott8G_Fhu39ReKOYuQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561198074783974)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)  
 </details>

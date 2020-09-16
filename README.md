@@ -13,7 +13,7 @@
 
  #### **Artificial Intelligence algorithms (2020)**
  <img src="https://github.com/FrizzLi/Artificial-Intelligence/blob/master/animation.gif" align='right' width='300' height='158'/>
- <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, finding the shortest path between all destinations, deducing new facts from facts that are being collected at certain destinations. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. (Python)</p>
+ <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, shortest path visiting all destinations, deducing new facts from facts that are being collected at certain destinations. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. (Python)</p>
 
  #### **Deep Learning (?)**
  </details>

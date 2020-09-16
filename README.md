@@ -7,12 +7,11 @@
 <details>
  <summary><b>✔️ Projects</b></summary>
 
- #### **Machine Learning (2018)**
+ #### **Interactive tutorials in machine learning (2018)**
  <img src="https://github.com/FrizzLi/Machine-Learning/blob/master/Dash_app3.jpg" align="right" width="300" height="192"/>
- <ins>Bachelor thesis - Interactive tutorials in machine learning:</ins>  
- <p align="justify">Created a web application that provides interactive and extensive visualizations of Naive Bayes classifier allowing us to deeply track its computational processes. Used a freshly released Dash framework in which the functionalities I needed were not documented well just yet, but I’ve managed to implement everything I designed myself to do regardless. Along with this, I’ve explained the fundamentals of ML in the thesis and created an introductory tutorial for ML text classification methods in ipynb notebook document. (Python, Dash framework, Jupyter Notebook, HTML, CSS)</p>
+ <p align="justify">Created a web application that provides interactive and extensive visualizations of Naive Bayes classifier allowing us to deeply track its computational processes. Used a freshly released Dash framework in which the functionalities I needed were not documented well just yet, but I’ve managed to implement everything I designed myself to do regardless. Along with this, I’ve explained the fundamentals of ML in Bachelor's thesis and created an introductory tutorial for ML text classification methods in ipynb notebook document. (Python, Dash framework, Jupyter Notebook, HTML, CSS)</p>
 
- #### **Artificial Intelligence (2020)**
+ #### **Artificial Intelligence algorithms (2020)**
  <img src="https://github.com/FrizzLi/Artificial-Intelligence/blob/master/animation.gif" align='right' width='300' height='158'/>
  <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, finding the shortest path between all destinations, deducing new facts from facts that are being collected at certain destinations. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. These algorithms were used for finding a solution: Dijkstra, A*, Held-Karp, Evolution, Production rule system. (Python)</p>
 

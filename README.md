@@ -36,7 +36,7 @@
  ✔️ Building Chatbots with Python (Sumit Raj)  
  📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
 
- #### Courses:
+ #### Coursera courses:
  ✔️ Machine Learning (60 hrs)  
  ✔️ Machine Learning: Classification (20 hrs)  
  ✔️ Learning How to Learn (15 hrs)  

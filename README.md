@@ -41,7 +41,7 @@
  ✔️ Machine Learning: Classification (20 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
  ✔️ AI For Everyone (6 hrs)  
- 📝 Deep Learning Specialization (80 hrs)  
+ ✔️ Deep Learning Specialization (80 hrs)  
  📝 Natural Language Processing Specialization (80 hrs)  
  📝 DeepLearning.AI TensorFlow Developer Professional Certificate (80 hrs)  
 

@@ -42,23 +42,10 @@
  ✔️ AI For Everyone (6 hrs)  
  ✔️ Deep Learning Specialization (80 hrs)  
  📝 Natural Language Processing Specialization (80 hrs)  
- 📝 DeepLearning.AI TensorFlow Developer Professional Certificate (80 hrs)  
 
  #### Youtube channels:
  📝 Sentdex, Corey Shafer, Python Programmer, Real Python, Data School, Freecodecamp, Tech With Tim, CS Dojo, TechLead, Daniel Bourke
 </details>
-
-<details>
- <summary><b>💎 Interests</b></summary>
-
-  - AI, Games, Guitar
-  - English, Korean, German
-  - Photography, Video/Image editing
-  - Exercising, Healthy food, Psychology
-</details>
-
-<details>
- <summary><b>💬 Contact</b></summary>
 
  If you want to know more or you just want to ask me something, feel free to do so! I’ll be happy to help.  
  You can write me on P.Markus1337@gmail.com or reach me here:

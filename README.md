@@ -1,7 +1,6 @@
 # 👋 Hello world!
  - I am Peter from Slovakia and I am interested in Artificial Intelligence and Python programming language. I love doing analysis to solve problems in the best possible way and helping people understand new concepts. I like to optimize code and improve its quality, so if you see any issue with my published codes, I’d be glad if you could point it out!
  - Recently worked as Python developer in a telecom company and earned Bachelor’s degree in Informatics (Slovak University of Technology - FIIT)
- - Looking for work in South Korea
 
 <details>
  <summary><b>✔️ Projects</b></summary>

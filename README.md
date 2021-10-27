@@ -19,8 +19,8 @@
 <details>
  <summary><b>🛠️ Technical experience</b></summary>
 
-  - **Tools:** VSCode, PyCharm, Git, GitHub, Jupyter, Heroku
-  - **Languages:** Python, C/C++, Java, JavaScript, HTML, CSS, PostgreSQL
+  - **Tools:** VSCode, PyCharm, Git, GitHub, GitLab, Jupyter, Heroku
+  - **Languages:** Python, C/C++, Java, PostgreSQL, HTML, CSS, JavaScript
   - **Technologies:** NumPy, Pandas, Matplotlib, Sklearn, Tensorflow, spaCy, Dash, Google/Youtube/Discord APIs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)

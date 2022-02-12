@@ -1,5 +1,5 @@
 # 👋 Hello world!
- - I am Peter from Slovakia and I am interested in Artificial Intelligence and Python programming language. I love doing analysis to solve problems in the best possible way and helping people understand new concepts. I like to optimize code and improve its quality.
+ - I am Peter from Slovakia and I am passionate about AI and Python. Love doing analysis to solve problems in the best possible way and helping people understand new concepts. Perfectionistic in code quality, open to any challenge, willing to step out of comfort zone.
  - Earned Bachelor’s degree in Informatics (Slovak University of Technology - FIIT) and currently working remotely as Python Odoo Developer.
 
 <details>
@@ -40,7 +40,7 @@
  ✔️ Learning How to Learn (15 hrs)  
  ✔️ AI For Everyone (6 hrs)  
  ✔️ Deep Learning Specialization (80 hrs)  
- 📝 Natural Language Processing Specialization (80 hrs)  
+ ✔️ Natural Language Processing Specialization (80 hrs)  
 
  #### Youtube channels:
  📝 Sentdex, Corey Shafer, Python Programmer, Real Python, Data School, Freecodecamp, Tech With Tim, CS Dojo, TechLead, Daniel Bourke

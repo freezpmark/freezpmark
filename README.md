@@ -1,6 +1,6 @@
 # 👋 Hello world!
  - I am Peter from Slovakia and I am passionate about AI and Python. Love doing analysis to solve problems in the best possible way and helping people understand new concepts. Perfectionistic in code quality, open to any challenge, willing to step out of comfort zone.
- - Earned Bachelor’s degree in Informatics (Slovak University of Technology - FIIT) and currently working remotely as Python Odoo Developer.
+ - Earned Bachelor’s degree in Informatics (Slovak University of Technology - FIIT).
 
 <details>
  <summary><b>✔️ Projects</b></summary>

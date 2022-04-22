@@ -30,9 +30,9 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  <summary><b>📚 Learning resources</b></summary>
  
  #### Books:
- ✔️ Programming in Python 3 (Mark Summerfield)
- ✔️ Building Chatbots with Python (Sumit Raj)
- 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)
+ ✔️ Programming in Python 3 (Mark Summerfield)  
+ ✔️ Building Chatbots with Python (Sumit Raj)  
+ 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
  📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
 
  #### Coursera courses:
@@ -40,10 +40,10 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  ✔️ Machine Learning: Classification (21 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
  ✔️ AI For Everyone (12 hrs)  
- 📝 Algorithms Specialization (64 hrs)
- 📝 Mathematics for Machine Learning Specialization (64 hrs)
- 📝 Applied Data Science with Python Specialization (140 hrs)
- 📝 Machine Learning (2022) (?)
+ 📝 Algorithms Specialization (64 hrs)  
+ 📝 Mathematics for Machine Learning Specialization (64 hrs)  
+ 📝 Applied Data Science with Python Specialization (140 hrs)  
+ 📝 Machine Learning (2022) (?)  
  ✔️ Deep Learning Specialization (180 hrs)  
  ✔️ Natural Language Processing Specialization (128 hrs)
 

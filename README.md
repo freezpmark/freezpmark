@@ -67,7 +67,7 @@ I've started my journey with Python and set a new goal to become an expert with 
 
  I also like learning and speaking English. I've been attending conversational English camps as a volunteer and lived in London for 8 months right after high school to work and improve my level. During my first job I became interested in Korean language and culture. After saving some money, I’ve decided to move to South Korea and I’m currently looking for a way to work there.
 
- **My other interests:**
+ <b>My other interests:</b>
   - Guitar, Photography, Youtube
   - Physical/Mental Health
   - PC/Board Games

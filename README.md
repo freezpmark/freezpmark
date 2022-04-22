@@ -28,7 +28,6 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 
 <details>
  <summary><b>📚 Learning resources</b></summary>
- 
  #### Books:
  ✔️ Programming in Python 3 (Mark Summerfield)  
  ✔️ Building Chatbots with Python (Sumit Raj)  
@@ -49,6 +48,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 <details>
  <summary><b>💁‍♂️ About Me</b></summary>
  
+ 
  Ever since childhood, one of the things that always got my attention was Artificial Intelligence. Despite the fact it was just from a game, I have always found simulation of any kind of human behavior fascinating. These kinds of modern technologies will play a big part in shaping the future, and I believe and hope in a good way!
 
  I've picked this domain for my Bachelor thesis project that was about making a tutorial for explaining two text classification algorithms. Using the framework Dash that was just released at that time, I was able to provide extensive interactive visualizations on a web application that was allowing us to track computational processes behind the algorithm.
@@ -62,7 +62,7 @@ I've started my journey with Python and set a new goal to become an expert with 
 
  I also like learning and speaking English. I've been attending conversational English camps as a volunteer and lived in London for 8 months right after high school to work and improve my level. During my first job I became interested in Korean language and culture. After saving some money, I’ve decided to move to South Korea and I’m currently looking for a way to work there.
 
- My other interests:
+ **My other interests:**
   - Guitar, Photography, Youtube
   - Physical/Mental Health
   - PC/Board Games
@@ -73,5 +73,7 @@ I've started my journey with Python and set a new goal to become an expert with 
  If you want to know more or you just want to ask me something, feel free to do so! I’ll be happy to help.  
  You can write me on P.Markus1337@gmail.com or reach me here:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freezpmark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/freezpmark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/freezpmark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZNX8ott8G_Fhu39ReKOYuQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)  
-</details>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freezpmark/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/freezpmark/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/freezpmark/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCZNX8ott8G_Fhu39ReKOYuQ/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)

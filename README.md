@@ -30,17 +30,22 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  <summary><b>📚 Learning resources</b></summary>
  
  #### Books:
- ✔️ Programming in Python 3 (Mark Summerfield)  
- ✔️ Building Chatbots with Python (Sumit Raj)  
+ ✔️ Programming in Python 3 (Mark Summerfield)
+ ✔️ Building Chatbots with Python (Sumit Raj)
+ 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)
  📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
 
  #### Coursera courses:
- ✔️ Machine Learning (60 hrs)  
- ✔️ Machine Learning: Classification (20 hrs)  
+ ✔️ Machine Learning (2012) (61 hrs)  
+ ✔️ Machine Learning: Classification (21 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
- ✔️ AI For Everyone (6 hrs)  
- ✔️ Deep Learning Specialization (80 hrs)  
- ✔️ Natural Language Processing Specialization (80 hrs)  
+ ✔️ AI For Everyone (12 hrs)  
+ 📝 Algorithms Specialization (64 hrs)
+ 📝 Mathematics for Machine Learning Specialization (64 hrs)
+ 📝 Applied Data Science with Python Specialization (140 hrs)
+ 📝 Machine Learning (2022) (?)
+ ✔️ Deep Learning Specialization (180 hrs)  
+ ✔️ Natural Language Processing Specialization (128 hrs)
 
  #### Youtube channels:
  📝 Sentdex, Corey Shafer, Python Programmer, Real Python, Data School, Freecodecamp, Tech With Tim, CS Dojo, TechLead, Daniel Bourke

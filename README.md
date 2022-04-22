@@ -28,6 +28,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 
 <details>
  <summary><b>📚 Learning resources</b></summary>
+ 
  #### Books:
  ✔️ Programming in Python 3 (Mark Summerfield)  
  ✔️ Building Chatbots with Python (Sumit Raj)  
@@ -47,7 +48,6 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 
 <details>
  <summary><b>💁‍♂️ About Me</b></summary>
- 
  
  Ever since childhood, one of the things that always got my attention was Artificial Intelligence. Despite the fact it was just from a game, I have always found simulation of any kind of human behavior fascinating. These kinds of modern technologies will play a big part in shaping the future, and I believe and hope in a good way!
 

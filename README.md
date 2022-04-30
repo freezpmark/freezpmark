@@ -62,10 +62,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  - I love doing analysis to solve problems in the best possible way
  - Learning and doing things I am passionate about
 
- When I started working on this project in Python for the first time, I realized that this language will suit my needs the best for programming. 
-I've started my journey with Python and set a new goal to become an expert with this language. I like to dedicate myself to work for the goals I've set for myself until I succeed. So even after working hours, I tend to continue writing code at home. Recently I've been working on Discord bots, algorithms, and an app for practicing the Korean language. All during which I'm trying to uncover and learn new concepts of Python I haven't been yet familiar with.
-
- I also like learning and speaking English. I've been attending conversational English camps as a volunteer and lived in London for 8 months right after high school to work and improve my level. During my first job I became interested in Korean language and culture. After saving some money, I’ve decided to move to South Korea and I’m currently looking for a way to work there.
+ I also like learning and speaking English. I've been attending conversational English camps as a volunteer and lived in London for 8 months right after high school to work and improve my English speaking level. During my first job I became interested in Korean language and culture. After saving some money, I’ve decided to move to South Korea and I’m currently looking for a way to work there.
 
  <b>My other interests:</b>
   - Guitar, Photography, Youtube

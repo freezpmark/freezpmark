@@ -52,20 +52,8 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 </details>
 
 <details>
- <summary><b>💁‍♂️ About Me</b></summary>
- 
- Ever since childhood, one of the things that always got my attention was Artificial Intelligence. Despite the fact it was just from a game, I have always found simulation of any kind of human behavior fascinating. These kinds of modern technologies will play a big part in shaping the future, and I believe and hope in a good way!
-
- I've picked this domain for my Bachelor thesis project that was about making a tutorial for explaining two text classification algorithms. Using the framework Dash that was just released at that time, I was able to provide extensive interactive visualizations on a web application that was allowing us to track computational processes behind the algorithm.
- I've been enjoying the whole process of implementing it a lot and did even more than I was asked to mainly because:
- - I love teaching and helping people understand how things work
- - I love doing analysis to solve problems in the best possible way
- - Learning and doing things I am passionate about
-
- I also like learning and speaking English. I've been attending conversational English camps as a volunteer and lived in London for 8 months right after high school to work and improve my English speaking level. During my first job I became interested in Korean language and culture. After saving some money, I’ve decided to move to South Korea and I’m currently looking for a way to work there.
-
- <b>My other interests:</b>
-  - Guitar, Photography, Youtube
+ <summary><b>Interests</b></summary>
+  - Art, Guitar, Photography, Youtube
   - Physical/Mental Health
   - PC/Board Games
 

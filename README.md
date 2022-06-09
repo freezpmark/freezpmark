@@ -52,7 +52,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 </details>
 
 <details>
- <summary><b>Interests</b></summary>
+ <summary><b>🙆‍♂️ Interests</b></summary>
   - Art, Guitar, Photography, Youtube
   - Physical/Mental Health
   - PC/Board Games

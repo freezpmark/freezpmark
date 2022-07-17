@@ -10,7 +10,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  <p align="justify">Created a web application that provides interactive and extensive visualizations of Naive Bayes classifier allowing us to deeply track its computational processes. Used a freshly released Dash framework in which the functionalities I used were not documented well yet. Along with this, I’ve explained the fundamentals of ML in Bachelor's thesis and created an introductory tutorial for machine learning text classification methods in ipynb document. (Python, Dash framework, Jupyter Notebook, HTML, CSS)</p>
 
  #### **Artificial Intelligence algorithms (2020)**
- <img src="https://github.com/freezpmark/Artificial-Intelligence/blob/master/animation.gif" align='right' width='300' height='158'/>
+ <img src="https://github.com/freezpmark/Artificial-Intelligence/blob/master/src/data/queried.gif" align='right' width='300' height='158'/>
  <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, shortest path visiting all destinations, deducing new facts from facts that are being collected at certain destinations. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. (Python)</p>
 
  #### **Deep Learning (?)**

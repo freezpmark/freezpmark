@@ -6,7 +6,7 @@ Love doing analysis to solve problems in the best possible way and helping peopl
  <summary><b>✔️ Projects</b></summary>
 
  #### **Interactive tutorials in machine learning (2018)**
- <img src="https://github.com/freezpmark/Machine-Learning/blob/master/Dash_app3.jpg" align="right" width="300" height="192"/>
+ <img src="https://github.com/freezpmark/Machine-Learning/blob/master/image_dash_app.jpg" align="right" width="300" height="192"/>
  <p align="justify">Created a web application that provides interactive and extensive visualizations of Naive Bayes classifier allowing us to deeply track its computational processes. Used a freshly released Dash framework in which the functionalities I used were not documented well yet. Along with this, I’ve explained the fundamentals of ML in Bachelor's thesis and created an introductory tutorial for machine learning text classification methods in ipynb document. (Python, Dash framework, Jupyter Notebook, HTML, CSS)</p>
 
  #### **Artificial Intelligence algorithms (2020)**

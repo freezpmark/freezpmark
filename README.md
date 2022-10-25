@@ -67,6 +67,6 @@ Love doing analysis to solve problems in the best possible way and helping peopl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freezpmark/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/freezpmark/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/freezpmark/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCZNX8ott8G_Fhu39ReKOYuQ/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/freezpmark/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)
 
 </details>

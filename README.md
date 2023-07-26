@@ -2,9 +2,17 @@
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
 Proactive in embracing new challenges and stepping out of comfort zone. 
 
-- 🎓 Bc degree at FIIT STU (focused on SW & AI)
+- 🎓 Bc. degree at Slovak University of Technology, FIIT (focused on SW & AI)
 - 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
 - 🔭 Looking for job opportunities in Seoul
+
+## 📊 GitHub Stats:
+<a href="https://github.com/freezpmark/freezpmark">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+</a>
+<a href="https://github.com/freezpmark/freezpmark">
+ <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
+</a>
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,26 +47,8 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![Odoo](https://img.shields.io/badge/Odoo-a24689?style=for-the-badge)
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
-## 📊 GitHub Stats:
-<a href="https://github.com/freezpmark/freezpmark">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
-</a>
-<a href="https://github.com/freezpmark/freezpmark">
- <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
-</a>
 
-## 📫 Contact:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freezpmark/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/freezpmark/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/c/freezpmark)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?&logo=steam&logoColor=white)](https://steamcommunity.com/id/freezpmark/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/502215707505852436)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
-
- feel free to reach out to me about anything! :)
-
- <details>
+<details>
  <summary><b>📚 Learning Resources (Click Me!)</b></summary>
  
  ### Coursera Courses:
@@ -86,3 +76,14 @@ Proactive in embracing new challenges and stepping out of comfort zone.
  - [Tech With Tim](https://www.youtube.com/@TechWithTim)
  - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 </details>
+
+## 📫 Contact:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freezpmark/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/freezpmark/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/c/freezpmark)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?&logo=steam&logoColor=white)](https://steamcommunity.com/id/freezpmark/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/502215707505852436)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
+
+Feel free to reach out to me about anything! :)

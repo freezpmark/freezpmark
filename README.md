@@ -45,8 +45,38 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=github_dark&layout=compact&langs_count=14)
-[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=github_dark)](https://git.io/streak-stats)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=github_dark&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=holi&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=material-palenight&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=blueberry&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=slateorange&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=github-dark-blue&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=leafy&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=python-dark&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=halloween&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=rising-sun&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=discord-old-blurple&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=cobalt2&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=catppuccino-macchiato&layout=compact&langs_count=12)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=catppuccino-mocha&layout=compact&langs_count=12)
+
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=holi-theme)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=prussian)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=material-palenight)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=blueberry)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=slateorange)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=leafy)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=python-dark)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=halloween)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=rising-sun)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=cobalt2)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=catppuccino-macchiato)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=catppuccino-mocha)](https://git.io/streak-stats)
+
 
 ## 📚 Learning Resources:
 ### Coursera Courses:

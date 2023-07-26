@@ -41,32 +41,32 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
-![StaticBadge](https://img.shields.io/badge/Odoo-a24689)
+![Odoo](https://img.shields.io/badge/Odoo-a24689?style=for-the-badge)
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=yellow)
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=dark&layout=compact)
-![Streak](https://github-readme-stats.vercel.app/api?username=freezpmark&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=discord-old-blurple)](https://git.io/streak-stats)
 ![Test](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freezpmark&theme=discord_old_blurple)
 
 ## 📚 Learning Resources:
 ### Coursera Courses:
-✔️ Machine Learning: Classification (21 hrs)
-✔️ Learning How to Learn (15 hrs)
-✔️ AI For Everyone (10 hrs)
-✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)
-✔️ Specialization: Machine Learning (108 hrs)
-✔️ Specialization: Deep Learning (140 hrs)
-✔️ Specialization: Natural Language Processing (128 hrs)
-✔️ Generative AI with Large Language Models (16 hrs)
-📝 Algorithms Specialization (64 hrs)
-📝 Applied Data Science with Python Specialization (140 hrs)
+✔️ Machine Learning: Classification (21 hrs) 
+✔️ Learning How to Learn (15 hrs) 
+✔️ AI For Everyone (10 hrs) 
+✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs) 
+✔️ Specialization: Machine Learning (108 hrs) 
+✔️ Specialization: Deep Learning (140 hrs) 
+✔️ Specialization: Natural Language Processing (128 hrs) 
+✔️ Generative AI with Large Language Models (16 hrs) 
+📝 Algorithms Specialization (64 hrs) 
+📝 Applied Data Science with Python Specialization (140 hrs) 
 
 ### Books:
-✔️ Programming in Python 3 (Mark Summerfield)
-✔️ Building Chatbots with Python (Sumit Raj)
-📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)
-📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)
+✔️ Programming in Python 3 (Mark Summerfield) 
+✔️ Building Chatbots with Python (Sumit Raj) 
+📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela) 
+📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron) 
 
 ### Youtube channels:
 - Sentdex
@@ -75,7 +75,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 - Tech With Tim
 - 3Blue1Brown
 
-## 📫 Contact (feel free to reach out to me about anything!):
+## 📫 Contact:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
@@ -84,3 +84,4 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
+ feel free to reach out to me about anything! :)

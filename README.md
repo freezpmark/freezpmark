@@ -1,72 +1,86 @@
 # 👋 Hello world!
-Love doing analysis to solve problems in the best possible way and helping people understand new concepts. Perfectionistic in code quality, open to any challenge, willing to step out of comfort zone.
- - Earned Bachelor’s degree in Informatics (Slovak University of Technology - FIIT).
+I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
+Proactive in embracing new challenges and stepping out of comfort zone. 
 
-<details>
- <summary><b>✔️ Projects</b></summary>
+- 🎓 Bc degree at FIIT STU (focused on SW & AI)
+- 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
+- 🔭 Looking for job opportunities in Seoul
 
- #### **Interactive tutorials in machine learning (2018)**
- <img src="https://github.com/freezpmark/Machine-Learning/blob/master/image_dash_app.jpg" align="right" width="300" height="192"/>
- <p align="justify">Created a web application that provides interactive and extensive visualizations of Naive Bayes classifier allowing us to deeply track its computational processes. Used a freshly released Dash framework in which the functionalities I used were not documented well yet. Along with this, I’ve explained the fundamentals of ML in Bachelor's thesis and created an introductory tutorial for machine learning text classification methods in ipynb document. (Python, Dash framework, Jupyter Notebook, HTML, CSS)</p>
+## Projects:
+- Web app providing interactive visualizations of the Naive Bayes classifier
+- App that generates GIF animation visualizing the outcome of AI non-learning algorithms (A*, Held-Karp, Evolution, Production rule system)
+- Korean language learning bot integrated with: ChatGPT, Stable Diffusion, Google Sheets
 
- #### **Artificial Intelligence algorithms (2020)**
- <img src="https://github.com/freezpmark/Artificial-Intelligence/blob/master/src/data/queried.gif" align='right' width='300' height='158'/>
- <p align="justify">Created an app that produces GIF animation that visualizes: creation of map in Zen garden approach, shortest path visiting all destinations, deducing new facts from facts that are being collected at certain destinations. The intention behind this project was to improve Python coding skills while practising implementation of some of the most widely mentioned algorithms in AI that don't use machine learning techniques. (Python)</p>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
- #### **Deep Learning (?)**
- </details>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<details>
- <summary><b>🛠️ Technical experience</b></summary>
+![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97-LangChain-black?style=for-the-badge&labelColor=grey&color=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-%2302A4D6?style=for-the-badge&color=%2302A4D6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-  - **Development:** Python (Odoo ERP Software Development, Google/Discord API), C, C++, Java, PostgreSQL, HTML, CSS, JavaScript
-  - **Tools:** VSCode, PyCharm, Git, GitHub/Lab, Jupyter, Heroku
-  - **Interests:** Algorithms, AI (Machine/Deep Learning, NLP, Data Science), Python (NumPy, Pandas, Matplotlib, Sklearn, Dash, Tensorflow, PyTorch, spaCy)
+![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![StaticBadge](https://img.shields.io/badge/Odoo-a24689)
+![DiscordPy](https://img.shields.io/badge/Discord.py-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=yellow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+📊 GitHub Stats:
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=dark&layout=compact)
+![Streak](https://github-readme-stats.vercel.app/api?username=freezpmark&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![Test](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freezpmark&theme=discord_old_blurple)
 
-<details>
- <summary><b>📚 Learning resources</b></summary>
- 
- #### Books:
- ✔️ Programming in Python 3 (Mark Summerfield)  
- ✔️ Building Chatbots with Python (Sumit Raj)  
- 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
- 📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
+## 📚 Learning Resources:
+### Coursera Courses:
+✔️ Machine Learning: Classification (21 hrs)
+✔️ Learning How to Learn (15 hrs)
+✔️ AI For Everyone (10 hrs)
+✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)
+✔️ Specialization: Machine Learning (108 hrs)
+✔️ Specialization: Deep Learning (140 hrs)
+✔️ Specialization: Natural Language Processing (128 hrs)
+✔️ Generative AI with Large Language Models (16 hrs)
+📝 Algorithms Specialization (64 hrs)
+📝 Applied Data Science with Python Specialization (140 hrs)
 
- #### Coursera courses:
- ✔️ Machine Learning (2012) (61 hrs)  
- ✔️ Machine Learning: Classification (21 hrs)  
- ✔️ Learning How to Learn (15 hrs)  
- ✔️ AI For Everyone (12 hrs)  
- 📝 Algorithms Specialization (64 hrs)  
- 📝 Mathematics for Machine Learning Specialization (64 hrs)  
- 📝 Applied Data Science with Python Specialization (140 hrs)  
- 📝 Machine Learning (2022) (?)  
- ✔️ Deep Learning Specialization (180 hrs)  
- ✔️ Natural Language Processing Specialization (128 hrs)
+### Books:
+✔️ Programming in Python 3 (Mark Summerfield)
+✔️ Building Chatbots with Python (Sumit Raj)
+📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)
+📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)
 
- #### Youtube channels:
- 📝 Sentdex, Corey Shafer, Python Programmer, Real Python, Data School, Freecodecamp, Tech With Tim, CS Dojo, TechLead, Daniel Bourke
-</details>
+### Youtube channels:
+- Sentdex
+- TechLead
+- Corey Shafer
+- Tech With Tim
+- 3Blue1Brown
 
-<details>
- <summary><b>🙆‍♂️ Interests</b></summary>
- 
-  - Art, Guitar, Photography, Youtube
-  - Physical/Mental Health
-  - PC/Board Games
+## 📫 Contact (feel free to reach out to me about anything!):
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
-</details>
-
-
- If you want to know more or you just want to ask me something, feel free to do so! I’ll be happy to help.  
- You can write me on P.Markus1337@gmail.com or reach me here:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freezpmark/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/freezpmark/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/freezpmark/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/freezpmark/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/pdGDJbR)
-
-</details>

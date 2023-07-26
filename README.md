@@ -6,10 +6,10 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 - 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
 - 🔭 Looking for job opportunities in Seoul
 
-## Projects:
+## 🪄 Projects:
+- Korean language learning bot integrated with: ChatGPT, Stable Diffusion, Google Sheets
 - Web app providing interactive visualizations of the Naive Bayes classifier
 - App that generates GIF animation visualizing the outcome of AI non-learning algorithms (A*, Held-Karp, Evolution, Production rule system)
-- Korean language learning bot integrated with: ChatGPT, Stable Diffusion, Google Sheets
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97-LangChain-black?style=for-the-badge&labelColor=grey&color=white)
+![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C%E2%9B%93%EF%B8%8F_LangChain-white?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -42,38 +42,37 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-a24689?style=for-the-badge)
-![DiscordPy](https://img.shields.io/badge/Discord.py-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=yellow)
+![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=dark&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=github_dark&layout=compact&langs_count=10)
 [![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=discord-old-blurple)](https://git.io/streak-stats)
-![Test](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freezpmark&theme=discord_old_blurple)
 
 ## 📚 Learning Resources:
 ### Coursera Courses:
-✔️ Machine Learning: Classification (21 hrs) 
-✔️ Learning How to Learn (15 hrs) 
-✔️ AI For Everyone (10 hrs) 
-✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs) 
-✔️ Specialization: Machine Learning (108 hrs) 
-✔️ Specialization: Deep Learning (140 hrs) 
-✔️ Specialization: Natural Language Processing (128 hrs) 
-✔️ Generative AI with Large Language Models (16 hrs) 
-📝 Algorithms Specialization (64 hrs) 
-📝 Applied Data Science with Python Specialization (140 hrs) 
+✔️ Machine Learning: Classification (21 hrs)  
+✔️ Learning How to Learn (15 hrs)  
+✔️ AI For Everyone (10 hrs)  
+✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)  
+✔️ Specialization: Machine Learning (108 hrs)  
+✔️ Specialization: Deep Learning (140 hrs)  
+✔️ Specialization: Natural Language Processing (128 hrs)  
+✔️ Generative AI with Large Language Models (16 hrs)  
+📝 Algorithms Specialization (64 hrs)  
+📝 Applied Data Science with Python Specialization (140 hrs)  
 
 ### Books:
-✔️ Programming in Python 3 (Mark Summerfield) 
-✔️ Building Chatbots with Python (Sumit Raj) 
-📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela) 
-📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron) 
+✔️ Programming in Python 3 (Mark Summerfield)  
+✔️ Building Chatbots with Python (Sumit Raj)  
+📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
+📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
 
 ### Youtube channels:
-- Sentdex
-- TechLead
-- Corey Shafer
-- Tech With Tim
-- 3Blue1Brown
+- [Sentdex](https://www.youtube.com/@sentdex) 
+- [TechLead](https://www.youtube.com/@TechLead)
+- [Corey Shafer](https://www.youtube.com/@coreyms)
+- [Tech With Tim](https://www.youtube.com/@TechWithTim)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 ## 📫 Contact:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

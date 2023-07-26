@@ -40,16 +40,10 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/freezpmark/freezpmark">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
-</a>
-  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
 <a href="https://github.com/freezpmark/freezpmark">
  <img height=215 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
 </a>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
-[![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage)](https://git.io/streak-stats)
 
 ## 📫 Contact:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freezpmark/)
@@ -60,7 +54,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
 
-Feel free to reach out to me about anything! :)
+ feel free to reach out to me about anything! :)
 
  <details>
  <summary><b>📚 Learning Resources (Click Me!)</b></summary>

@@ -86,4 +86,4 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
 
-Feel free to reach out to me about anything! :)
+Feel free to reach me out about anything! :)

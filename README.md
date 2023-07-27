@@ -2,11 +2,11 @@
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
 Proactive in embracing new challenges and stepping out of comfort zone. 
 
-- 🎓 Bc. degree at Slovak University of Technology, FIIT (focused on SW & AI)
-- 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
+- 🎓 Bc. degree at Slovak University of Technology, FIIT (focus on SW & AI)
+- 🌱 Learning and seeking to leverage LLMs to build AI-powered applications, especially in education domain
 - 🔭 Looking for job opportunities in Seoul
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 </a>

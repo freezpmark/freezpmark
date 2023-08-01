@@ -8,7 +8,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=artificial-intelligence-algorithms,music-discord-bot"/>
 </a>
 <a href="https://github.com/freezpmark/freezpmark">
  <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>

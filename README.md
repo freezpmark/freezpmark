@@ -3,7 +3,7 @@ I am Peter Markus from Slovakia, a Python Developer that strives for high qualit
 Proactive in embracing new challenges and stepping out of comfort zone. 
 
 - 🎓 Bc. degree at Slovak University of Technology, FIIT (focus on SW & AI)
-- 🌱 Currently engaged in the study of LLM's, aiming to harness their potential in developing AI-powered applications, especially in education domain
+- 🌱 Currently engaged in the study of LLMs, aiming to harness their potential in developing AI-powered applications
 - 🔭 Looking for job opportunities in Seoul
 
 ## 📊 Stats:

@@ -4,7 +4,6 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 
 - 🎓 Bc. degree at Slovak University of Technology, FIIT (focus on SW & AI)
 - 🌱 Currently engaged in the study of LLMs, aiming to harness their potential in developing AI-powered applications
-- 🔭 Looking for job opportunities in Seoul
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">

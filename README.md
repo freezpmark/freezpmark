@@ -33,7 +33,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8A2BE2)
+![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge)
 
 ![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C%E2%9B%93%EF%B8%8F_LangChain-white?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)

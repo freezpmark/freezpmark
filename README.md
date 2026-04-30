@@ -1,9 +1,14 @@
-# 👋 Hello world!
-I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
-Proactive in embracing new challenges and stepping out of comfort zone. 
+Software engineer turned consultant. I learned early that the hardest problem isn't technical, it's understanding what a business actually needs, then making it work.
+One project cut 10+ hours of daily work and scaled an academy from 30 to 100+ students.
 
-- 🎓 Bc. degree at Slovak University of Technology, FIIT (focus on SW & AI)
-- 🌱 Currently engaged in the study of LLMs, aiming to harness their potential in developing AI-powered applications
+At LanterNode, I implement and customize Odoo end to end, from scoping through deployment, with experience in education, language learning, and AI-driven products. 
+I also help clients apply AI where it creates real time and effort savings.
+
+My background spans corporate, contract, startup environments, and building my own product.
+I read codebases and business processes with equal comfort, and clients get direct access to the person doing the work.
+
+If you're exploring Odoo or rethinking your business systems, feel free to reach out at
+pm@lanternode.com
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">

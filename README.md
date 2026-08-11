@@ -5,7 +5,7 @@
  <img height=213 src="./profile/top-langs.svg"/>
 </a>
 <a href="https://github.com/freezpmark/freezpmark">
- <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
+ <img height=213 src="./profile/streak.svg"/>
 </a>
 
 I build AI systems and Odoo setups for education and service companies. One build cut over 10 hours of daily work for a 1:1 language academy, which went on to grow from 30 to 100+ students.

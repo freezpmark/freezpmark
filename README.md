@@ -2,9 +2,6 @@
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=artificial-intelligence-algorithms,music-discord-bot"/>
-</a>
-<a href="https://github.com/freezpmark/freezpmark">
  <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
 </a>
 
@@ -20,6 +17,8 @@ Send me what your week actually looks like and I'll tell you straight whether th
 
 - [Odoo vs AI: Should AI Build Your Business Software?](https://www.lanternode.com/blog/insights-6/odoo-vs-ai-should-ai-build-your-business-software-4): where AI genuinely wins at building business software, and the three things it cannot shortcut
 - [Odoo Experience 2025: Simplicity at Scale](https://www.lanternode.com/blog/events-1/odoo-experience-2025-simplicity-at-scale-3): notes from Brussels on Odoo 19, company culture, and what changes for implementers
+
+<br>
 
 <details>
  <summary><b>💻 Tech Stack (Click Me!)</b></summary>

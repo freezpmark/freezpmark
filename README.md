@@ -2,6 +2,9 @@
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">
+ <img height=213 src="./profile/top-langs.svg"/>
+</a>
+<a href="https://github.com/freezpmark/freezpmark">
  <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
 </a>
 

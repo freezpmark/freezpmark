@@ -1,12 +1,17 @@
-<img src="./github-neofetch-card.svg" alt="Peter Markuš — Odoo &amp; AI Solution Architect, LanterNode Inc., Seoul" width="984">
+<div align="center">
+ <img src="./github-neofetch-card.svg" alt="Peter Markuš — Odoo &amp; AI Solution Architect, LanterNode Inc., Seoul" width="984">
+</div>
 
-## 📊 Stats:
-<a href="https://github.com/freezpmark/freezpmark">
- <img height=213 src="./profile/top-langs.svg"/>
-</a>
-<a href="https://github.com/freezpmark/freezpmark">
- <img height=213 src="./profile/streak.svg"/>
-</a>
+<h2 align="center">📊 Stats</h2>
+
+<div align="center">
+ <img height="195" src="./profile/top-langs.svg" alt="Most used languages"/>
+ <img height="195" src="./profile/streak.svg" alt="Contribution streak"/>
+</div>
+
+<br>
+
+<h2 align="center">👋 About</h2>
 
 I build AI systems and Odoo setups for education and service companies. One build cut over 10 hours of daily work for a 1:1 language academy, which went on to grow from 30 to 100+ students.
 
@@ -16,7 +21,7 @@ Software engineer turned consultant. I learned early that the hardest problem is
 
 Send me what your week actually looks like and I'll tell you straight whether this is worth doing. pm@lanternode.com
 
-### Writing
+<h2 align="center">✍️ Writing</h2>
 
 - [Odoo vs AI: Should AI Build Your Business Software?](https://www.lanternode.com/blog/insights-6/odoo-vs-ai-should-ai-build-your-business-software-4): where AI genuinely wins at building business software, and the three things it cannot shortcut
 - [Odoo Experience 2025: Simplicity at Scale](https://www.lanternode.com/blog/events-1/odoo-experience-2025-simplicity-at-scale-3): notes from Brussels on Odoo 19, company culture, and what changes for implementers

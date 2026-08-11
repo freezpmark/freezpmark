@@ -1,14 +1,4 @@
-Software engineer turned consultant. I learned early that the hardest problem isn't technical, it's understanding what a business actually needs, then making it work.
-One project cut 10+ hours of daily work and scaled an academy from 30 to 100+ students.
-
-At LanterNode, I implement and customize Odoo end to end, from scoping through deployment, with experience in education, language learning, and AI-driven products. 
-I also help clients apply AI where it creates real time and effort savings.
-
-My background spans corporate, contract, startup environments, and building my own product.
-I read codebases and business processes with equal comfort, and clients get direct access to the person doing the work.
-
-If you're exploring Odoo or rethinking your business systems, feel free to reach out at
-pm@lanternode.com
+<img src="./github-neofetch-card.svg" alt="Peter Markuš — Odoo &amp; AI Solution Architect, LanterNode Inc., Seoul" width="984">
 
 ## 📊 Stats:
 <a href="https://github.com/freezpmark/freezpmark">
@@ -18,7 +8,22 @@ pm@lanternode.com
  <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
 </a>
 
-## 💻 Tech Stack:
+I build AI systems and Odoo setups for education and service companies. One build cut over 10 hours of daily work for a 1:1 language academy, which went on to grow from 30 to 100+ students.
+
+Odoo brings every part of a business into one place, and at LanterNode I implement it from scoping to deployment. AI takes on the reading, answering and routine work behind it. I build both, so I can tell you what actually fits, and when neither does. If the admin is eating the hours you'd rather spend on the work itself, that's who this is for.
+
+Software engineer turned consultant. I learned early that the hardest problem isn't technical, it's understanding what a business actually needs, then making it work. I've worked in corporate, on contract, in a startup, and on my own SaaS. I read codebases and business processes with equal comfort, and clients get direct access to the person doing the work.
+
+Send me what your week actually looks like and I'll tell you straight whether this is worth doing. pm@lanternode.com
+
+### Writing
+
+- [Odoo vs AI: Should AI Build Your Business Software?](https://www.lanternode.com/blog/insights-6/odoo-vs-ai-should-ai-build-your-business-software-4): where AI genuinely wins at building business software, and the three things it cannot shortcut
+- [Odoo Experience 2025: Simplicity at Scale](https://www.lanternode.com/blog/events-1/odoo-experience-2025-simplicity-at-scale-3): notes from Brussels on Odoo 19, company culture, and what changes for implementers
+
+<details>
+ <summary><b>💻 Tech Stack (Click Me!)</b></summary>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,10 +60,11 @@ pm@lanternode.com
 ![Odoo](https://img.shields.io/badge/Odoo-a24689?style=for-the-badge)
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
+</details>
 
 <details>
  <summary><b>📚 Learning Resources (Click Me!)</b></summary>
- 
+
  ### Coursera Courses:
  ✔️ Machine Learning: Classification (21 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
@@ -68,30 +74,8 @@ pm@lanternode.com
  ✔️ Specialization: Deep Learning (140 hrs)  
  ✔️ Specialization: Natural Language Processing (128 hrs)  
  ✔️ Generative AI with Large Language Models (16 hrs)  
- 📝 Algorithms Specialization (64 hrs)  
- 📝 Applied Data Science with Python Specialization (140 hrs)  
- 
+
  ### Books:
  ✔️ Programming in Python 3 (Mark Summerfield)  
  ✔️ Building Chatbots with Python (Sumit Raj)  
- 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
- 📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
- 
- ### Youtube channels:
- - [Sentdex](https://www.youtube.com/@sentdex) 
- - [TechLead](https://www.youtube.com/@TechLead)
- - [Corey Shafer](https://www.youtube.com/@coreyms)
- - [Tech With Tim](https://www.youtube.com/@TechWithTim)
- - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 </details>
-
-## 📫 Contact:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freezpmark/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/freezpmark/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/c/freezpmark)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?&logo=steam&logoColor=white)](https://steamcommunity.com/id/freezpmark/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/502215707505852436)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
-
-Feel free to reach me out about anything! :)

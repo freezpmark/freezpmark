@@ -1,14 +1,15 @@
 ####################################################################
-# Renders the profile cards as static SVGs and commits them here.
+# Renders the two profile cards as static SVGs and commits them here.
 #
 # Both cards used to be hot-linked from third-party services and BOTH
-# rendered broken, for two different reasons:
-#   - github-readme-stats.vercel.app returned 503 DEPLOYMENT_PAUSED
+# rendered broken on the profile, for two different reasons:
+#   - github-readme-stats.vercel.app returned 503 DEPLOYMENT_PAUSED.
 #   - streak-stats.demolab.com answered 200 to curl, but GitHub's CSP
-#     blocks external images in a README that it has not camo-proxied,
-#     so the browser never loaded it either way.
-# Generating them here removes both failure modes at once: GitHub serves
-# files out of this repo and nothing is fetched at page-view time.
+#     blocks external images in a README it has not camo-proxied, so
+#     the browser never loaded it either way.
+# Fetching server-side and committing the files fixes both at once:
+# GitHub serves them from this repo, and a visitor's browser makes no
+# third-party request at all.
 ####################################################################
 name: Update the profile cards
 
@@ -30,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Generate the card
+      - name: Generate the languages card
         # Pinned to a full commit SHA, not a moving tag: this is a third-party
         # action and the tag it resolves to can be repointed at any time.
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
@@ -43,14 +44,28 @@ jobs:
           # commits it. Fail loudly instead of publishing a broken card silently.
           fail_on_error: "true"
 
-      - name: Generate the overall stats card
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
-        with:
-          card: stats
-          options: "username=freezpmark&theme=ayu-mirage&show_icons=true&hide_border=true&include_all_commits=true"
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: "true"
+      - name: Fetch the streak card
+        # No generator exists for this one - it is a separate project with no
+        # action - so it is fetched here instead. Every failure mode keeps the
+        # card already in the repo rather than overwriting it with junk: a
+        # committed card that is a week stale still beats a broken image.
+        run: |
+          url="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"
+          tmp="$(mktemp)"
+          code="$(curl -sS -o "$tmp" -w '%{http_code}' --max-time 30 "$url" || echo 000)"
+          size="$(wc -c < "$tmp")"
+
+          if [ "$code" != "200" ]; then
+            echo "::warning::Streak service returned HTTP $code. Keeping the committed card."
+          elif ! head -c 400 "$tmp" | grep -q '<svg'; then
+            echo "::warning::Streak response was not an SVG. Keeping the committed card."
+          elif [ "$size" -lt 1000 ]; then
+            echo "::warning::Streak SVG was only $size bytes. Keeping the committed card."
+          else
+            mkdir -p profile
+            mv "$tmp" profile/streak.svg
+            echo "Streak card updated ($size bytes)."
+          fi
 
       - name: Commit the cards if they changed
         run: |

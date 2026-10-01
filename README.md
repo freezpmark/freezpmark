@@ -13,13 +13,32 @@
 
 <h2 align="center">👋 About</h2>
 
-I build AI systems and Odoo setups for education and service companies. One build cut over 10 hours of daily work for a 1:1 language academy, which went on to grow from 30 to 100+ students.
+I implement Odoo and build AI automation for education and service companies. Odoo alone, AI alone, or both. Software engineer turned consultant; founder since 2025.
 
-Odoo brings every part of a business into one place, and at LanterNode I implement it from scoping to deployment. AI takes on the reading, answering and routine work behind it. I build both, so I can tell you what actually fits, and when neither does. If the admin is eating the hours you'd rather spend on the work itself, that's who this is for.
+**What I build**
 
-Software engineer turned consultant. I learned early that the hardest problem isn't technical, it's understanding what a business actually needs, then making it work. I've worked in corporate, on contract, in a startup, and on my own SaaS. I read codebases and business processes with equal comfort, and clients get direct access to the person doing the work.
+- Odoo ERP end to end: scoping, configuration, custom development, deployment, hosting, support
+- AI and business process automation for the reading, answering and routine admin around the business
 
-Send me what your week actually looks like and I'll tell you straight whether this is worth doing. pm@lanternode.com
+**Delivered**
+
+- 2026 - now: building an AI SaaS for language teachers/students, and my own AI operating system of agents
+- 2025 - now: implemented and run Odoo for a 22-user B2B wholesaler and a Seoul career-training institute
+- 2023 - 2025: CTO, 1:1 English academy, 10+ hrs/day saved, supporting growth from 30 to 100+ students
+- 2021 - 2022: on contract, co-built a Czech/Slovak accounting system for 20+ SMEs, cut admin time 30%+
+- 2018 - 2020: employed at a telecom as an Odoo developer, saving the sales team 10+ hrs/week
+- 5+ years in Odoo and business systems, across corporate, contract, startup and SaaS
+
+**Who this is for**
+
+Language academies, training institutes and course platforms. More broadly, any service business where the relationship is the product and the back office eats the hours.
+
+**How I work**
+
+I learned early that the hard part is understanding what a business needs, then making it work. So I'll tell you what fits: Odoo, an AI-native build, both, or neither. Most people need less than they think, and sometimes the answer is that we're not a fit. The recommendation is yours to keep even if you walk away.
+
+Send me what your week  looks like and I'll tell you straight what is worth doing. pm@lanternode.com
+
 
 <h2 align="center">✍️ Writing</h2>
 
